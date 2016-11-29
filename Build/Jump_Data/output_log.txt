@@ -1,0 +1,57 @@
+Initialize engine version: 5.0.1f1 (5a2e8fe35a68)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 1070 (ID=0x1b81)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Unity5\Projects\LAHack\Jump\Build\Jump_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Unity5\Projects\LAHack\Jump\Build\Jump_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Unity5\Projects\LAHack\Jump\Build\Jump_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\Unity5\Projects\LAHack\Jump\Build\Jump_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Unity5\Projects\LAHack\Jump\Build\Jump_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Unity5\Projects\LAHack\Jump\Build\Jump_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Unity5\Projects\LAHack\Jump\Build\Jump_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Unity5\Projects\LAHack\Jump\Build\Jump_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Unity5\Projects\LAHack\Jump\Build\Jump_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Unity5\Projects\LAHack\Jump\Build\Jump_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Unity5\Projects\LAHack\Jump\Build\Jump_Data\Managed\Photon3Unity3D.dll (this message is harmless)
+Loading D:\Unity5\Projects\LAHack\Jump\Build\Jump_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
+- Completed reload, in  0.216 seconds
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at -1920,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: D:\Unity5\Projects\LAHack\Jump\Build\Jump_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Unity5\Projects\LAHack\Jump\Build\Jump_Data\Managed\System.dll (this message is harmless)
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.516379 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 330.
+Total: 0.108542 ms (FindLiveObjects: 0.010824 ms CreateObjectMapping: 0.014043 ms MarkObjects: 0.081333 ms  DeleteObjects: 0.002340 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.717958 ms
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 308.
+Total: 0.170566 ms (FindLiveObjects: 0.009362 ms CreateObjectMapping: 0.012287 ms MarkObjects: 0.081333 ms  DeleteObjects: 0.067290 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.218547 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 330.
+Total: 0.114393 ms (FindLiveObjects: 0.010239 ms CreateObjectMapping: 0.012580 ms MarkObjects: 0.089232 ms  DeleteObjects: 0.002340 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.701866 ms
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 308.
+Total: 0.187827 ms (FindLiveObjects: 0.020772 ms CreateObjectMapping: 0.023112 ms MarkObjects: 0.078115 ms  DeleteObjects: 0.065827 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.196897 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 297.
+Total: 0.123170 ms (FindLiveObjects: 0.019894 ms CreateObjectMapping: 0.021942 ms MarkObjects: 0.078992 ms  DeleteObjects: 0.002340 ms)
+
